@@ -96,7 +96,7 @@ msgstr ""
 #. translators: plugin header field 'Version'
 #: quick-mail.php:0
 #@ quick-mail
-msgid "1.00"
+msgid "1.02"
 msgstr ""
 
 #: quick-mail.php:110

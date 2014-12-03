@@ -119,8 +119,8 @@ msgstr "enviar correo electrónico con el accesorio de WordPress"
 #. translators: plugin header field 'Version'
 #: quick-mail.php:0
 #@ quick-mail
-msgid "1.00"
-msgstr "1.00"
+msgid "1.02"
+msgstr "1.02"
 
 #: quick-mail.php:110
 #@ quick-mail
